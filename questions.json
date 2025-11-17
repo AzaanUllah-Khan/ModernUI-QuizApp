@@ -1,0 +1,6034 @@
+{
+  "python": {
+    "beginner": [
+      {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+          ".py",
+          ".java",
+          ".js",
+          ".txt"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which function prints output to the console in Python?",
+        "options": [
+          "echo()",
+          "print()",
+          "write()",
+          "out()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the type of 3 in Python?",
+        "options": [
+          "int",
+          "float",
+          "str",
+          "list"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "How do you create a list literal in Python?",
+        "options": [
+          "[]",
+          "()",
+          "{}",
+          "<>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which symbol starts a single-line comment in Python?",
+        "options": [
+          "//",
+          "#",
+          "/*",
+          "<!--"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+          ".py",
+          ".java",
+          ".js",
+          ".txt"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which function prints output to the console in Python?",
+        "options": [
+          "echo()",
+          "print()",
+          "write()",
+          "out()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the type of 8 in Python?",
+        "options": [
+          "int",
+          "float",
+          "str",
+          "list"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "How do you create a list literal in Python?",
+        "options": [
+          "[]",
+          "()",
+          "{}",
+          "<>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which symbol starts a single-line comment in Python?",
+        "options": [
+          "//",
+          "#",
+          "/*",
+          "<!--"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+          ".py",
+          ".java",
+          ".js",
+          ".txt"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which function prints output to the console in Python?",
+        "options": [
+          "echo()",
+          "print()",
+          "write()",
+          "out()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the type of 13 in Python?",
+        "options": [
+          "int",
+          "float",
+          "str",
+          "list"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "How do you create a list literal in Python?",
+        "options": [
+          "[]",
+          "()",
+          "{}",
+          "<>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which symbol starts a single-line comment in Python?",
+        "options": [
+          "//",
+          "#",
+          "/*",
+          "<!--"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+          ".py",
+          ".java",
+          ".js",
+          ".txt"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which function prints output to the console in Python?",
+        "options": [
+          "echo()",
+          "print()",
+          "write()",
+          "out()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the type of 18 in Python?",
+        "options": [
+          "int",
+          "float",
+          "str",
+          "list"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "How do you create a list literal in Python?",
+        "options": [
+          "[]",
+          "()",
+          "{}",
+          "<>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which symbol starts a single-line comment in Python?",
+        "options": [
+          "//",
+          "#",
+          "/*",
+          "<!--"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+          ".py",
+          ".java",
+          ".js",
+          ".txt"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which function prints output to the console in Python?",
+        "options": [
+          "echo()",
+          "print()",
+          "write()",
+          "out()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the type of 23 in Python?",
+        "options": [
+          "int",
+          "float",
+          "str",
+          "list"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "How do you create a list literal in Python?",
+        "options": [
+          "[]",
+          "()",
+          "{}",
+          "<>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which symbol starts a single-line comment in Python?",
+        "options": [
+          "//",
+          "#",
+          "/*",
+          "<!--"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+          ".py",
+          ".java",
+          ".js",
+          ".txt"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which function prints output to the console in Python?",
+        "options": [
+          "echo()",
+          "print()",
+          "write()",
+          "out()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the type of 28 in Python?",
+        "options": [
+          "int",
+          "float",
+          "str",
+          "list"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "How do you create a list literal in Python?",
+        "options": [
+          "[]",
+          "()",
+          "{}",
+          "<>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which symbol starts a single-line comment in Python?",
+        "options": [
+          "//",
+          "#",
+          "/*",
+          "<!--"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+          ".py",
+          ".java",
+          ".js",
+          ".txt"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which function prints output to the console in Python?",
+        "options": [
+          "echo()",
+          "print()",
+          "write()",
+          "out()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the type of 33 in Python?",
+        "options": [
+          "int",
+          "float",
+          "str",
+          "list"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "How do you create a list literal in Python?",
+        "options": [
+          "[]",
+          "()",
+          "{}",
+          "<>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which symbol starts a single-line comment in Python?",
+        "options": [
+          "//",
+          "#",
+          "/*",
+          "<!--"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+          ".py",
+          ".java",
+          ".js",
+          ".txt"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which function prints output to the console in Python?",
+        "options": [
+          "echo()",
+          "print()",
+          "write()",
+          "out()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the type of 38 in Python?",
+        "options": [
+          "int",
+          "float",
+          "str",
+          "list"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "How do you create a list literal in Python?",
+        "options": [
+          "[]",
+          "()",
+          "{}",
+          "<>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which symbol starts a single-line comment in Python?",
+        "options": [
+          "//",
+          "#",
+          "/*",
+          "<!--"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+          ".py",
+          ".java",
+          ".js",
+          ".txt"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which function prints output to the console in Python?",
+        "options": [
+          "echo()",
+          "print()",
+          "write()",
+          "out()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the type of 43 in Python?",
+        "options": [
+          "int",
+          "float",
+          "str",
+          "list"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "How do you create a list literal in Python?",
+        "options": [
+          "[]",
+          "()",
+          "{}",
+          "<>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which symbol starts a single-line comment in Python?",
+        "options": [
+          "//",
+          "#",
+          "/*",
+          "<!--"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+          ".py",
+          ".java",
+          ".js",
+          ".txt"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which function prints output to the console in Python?",
+        "options": [
+          "echo()",
+          "print()",
+          "write()",
+          "out()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the type of 48 in Python?",
+        "options": [
+          "int",
+          "float",
+          "str",
+          "list"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "How do you create a list literal in Python?",
+        "options": [
+          "[]",
+          "()",
+          "{}",
+          "<>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which symbol starts a single-line comment in Python?",
+        "options": [
+          "//",
+          "#",
+          "/*",
+          "<!--"
+        ],
+        "answerIndex": 1
+      }
+    ],
+    "intermediate": [
+      {
+        "question": "Which data structure does not allow duplicate items?",
+        "options": [
+          "list",
+          "tuple",
+          "set",
+          "dict"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "What does len(['a','b','c']) return?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "error"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator checks membership in a collection?",
+        "options": [
+          "in",
+          "is",
+          "has",
+          "of"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the floor division of 5//2?",
+        "options": [
+          "2.5",
+          "2",
+          "3",
+          "2.0"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+          "func",
+          "define",
+          "def",
+          "function"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which data structure does not allow duplicate items?",
+        "options": [
+          "list",
+          "tuple",
+          "set",
+          "dict"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "What does len(['a','b','c']) return?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "error"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator checks membership in a collection?",
+        "options": [
+          "in",
+          "is",
+          "has",
+          "of"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the floor division of 5//2?",
+        "options": [
+          "2.5",
+          "2",
+          "3",
+          "2.0"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+          "func",
+          "define",
+          "def",
+          "function"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which data structure does not allow duplicate items?",
+        "options": [
+          "list",
+          "tuple",
+          "set",
+          "dict"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "What does len(['a','b','c']) return?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "error"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator checks membership in a collection?",
+        "options": [
+          "in",
+          "is",
+          "has",
+          "of"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the floor division of 5//2?",
+        "options": [
+          "2.5",
+          "2",
+          "3",
+          "2.0"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+          "func",
+          "define",
+          "def",
+          "function"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which data structure does not allow duplicate items?",
+        "options": [
+          "list",
+          "tuple",
+          "set",
+          "dict"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "What does len(['a','b','c']) return?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "error"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator checks membership in a collection?",
+        "options": [
+          "in",
+          "is",
+          "has",
+          "of"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the floor division of 5//2?",
+        "options": [
+          "2.5",
+          "2",
+          "3",
+          "2.0"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+          "func",
+          "define",
+          "def",
+          "function"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which data structure does not allow duplicate items?",
+        "options": [
+          "list",
+          "tuple",
+          "set",
+          "dict"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "What does len(['a','b','c']) return?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "error"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator checks membership in a collection?",
+        "options": [
+          "in",
+          "is",
+          "has",
+          "of"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the floor division of 5//2?",
+        "options": [
+          "2.5",
+          "2",
+          "3",
+          "2.0"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+          "func",
+          "define",
+          "def",
+          "function"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which data structure does not allow duplicate items?",
+        "options": [
+          "list",
+          "tuple",
+          "set",
+          "dict"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "What does len(['a','b','c']) return?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "error"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator checks membership in a collection?",
+        "options": [
+          "in",
+          "is",
+          "has",
+          "of"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the floor division of 5//2?",
+        "options": [
+          "2.5",
+          "2",
+          "3",
+          "2.0"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+          "func",
+          "define",
+          "def",
+          "function"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which data structure does not allow duplicate items?",
+        "options": [
+          "list",
+          "tuple",
+          "set",
+          "dict"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "What does len(['a','b','c']) return?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "error"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator checks membership in a collection?",
+        "options": [
+          "in",
+          "is",
+          "has",
+          "of"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the floor division of 5//2?",
+        "options": [
+          "2.5",
+          "2",
+          "3",
+          "2.0"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+          "func",
+          "define",
+          "def",
+          "function"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which data structure does not allow duplicate items?",
+        "options": [
+          "list",
+          "tuple",
+          "set",
+          "dict"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "What does len(['a','b','c']) return?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "error"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator checks membership in a collection?",
+        "options": [
+          "in",
+          "is",
+          "has",
+          "of"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the floor division of 5//2?",
+        "options": [
+          "2.5",
+          "2",
+          "3",
+          "2.0"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+          "func",
+          "define",
+          "def",
+          "function"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which data structure does not allow duplicate items?",
+        "options": [
+          "list",
+          "tuple",
+          "set",
+          "dict"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "What does len(['a','b','c']) return?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "error"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator checks membership in a collection?",
+        "options": [
+          "in",
+          "is",
+          "has",
+          "of"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the floor division of 5//2?",
+        "options": [
+          "2.5",
+          "2",
+          "3",
+          "2.0"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+          "func",
+          "define",
+          "def",
+          "function"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which data structure does not allow duplicate items?",
+        "options": [
+          "list",
+          "tuple",
+          "set",
+          "dict"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "What does len(['a','b','c']) return?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "error"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator checks membership in a collection?",
+        "options": [
+          "in",
+          "is",
+          "has",
+          "of"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the floor division of 5//2?",
+        "options": [
+          "2.5",
+          "2",
+          "3",
+          "2.0"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+          "func",
+          "define",
+          "def",
+          "function"
+        ],
+        "answerIndex": 2
+      }
+    ],
+    "advanced": [
+      {
+        "question": "What is the result of list(range(1, 4)) in Python?",
+        "options": [
+          "range",
+          "list",
+          "tuple",
+          "generator"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which method creates an iterator that yields pairs from two iterables?",
+        "options": [
+          "zip()",
+          "map()",
+          "filter()",
+          "reduce()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which module provides JSON encoding/decoding?",
+        "options": [
+          "yaml",
+          "json",
+          "pickle",
+          "xml"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which built-in function applies a function to all items and returns an iterator?",
+        "options": [
+          "map()",
+          "apply()",
+          "each()",
+          "for_each()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which keyword will create a generator function?",
+        "options": [
+          "gen",
+          "yield",
+          "return",
+          "async"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the result of list(range(6, 9)) in Python?",
+        "options": [
+          "range",
+          "list",
+          "tuple",
+          "generator"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which method creates an iterator that yields pairs from two iterables?",
+        "options": [
+          "zip()",
+          "map()",
+          "filter()",
+          "reduce()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which module provides JSON encoding/decoding?",
+        "options": [
+          "yaml",
+          "json",
+          "pickle",
+          "xml"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which built-in function applies a function to all items and returns an iterator?",
+        "options": [
+          "map()",
+          "apply()",
+          "each()",
+          "for_each()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which keyword will create a generator function?",
+        "options": [
+          "gen",
+          "yield",
+          "return",
+          "async"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the result of list(range(11, 14)) in Python?",
+        "options": [
+          "range",
+          "list",
+          "tuple",
+          "generator"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which method creates an iterator that yields pairs from two iterables?",
+        "options": [
+          "zip()",
+          "map()",
+          "filter()",
+          "reduce()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which module provides JSON encoding/decoding?",
+        "options": [
+          "yaml",
+          "json",
+          "pickle",
+          "xml"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which built-in function applies a function to all items and returns an iterator?",
+        "options": [
+          "map()",
+          "apply()",
+          "each()",
+          "for_each()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which keyword will create a generator function?",
+        "options": [
+          "gen",
+          "yield",
+          "return",
+          "async"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the result of list(range(16, 19)) in Python?",
+        "options": [
+          "range",
+          "list",
+          "tuple",
+          "generator"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which method creates an iterator that yields pairs from two iterables?",
+        "options": [
+          "zip()",
+          "map()",
+          "filter()",
+          "reduce()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which module provides JSON encoding/decoding?",
+        "options": [
+          "yaml",
+          "json",
+          "pickle",
+          "xml"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which built-in function applies a function to all items and returns an iterator?",
+        "options": [
+          "map()",
+          "apply()",
+          "each()",
+          "for_each()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which keyword will create a generator function?",
+        "options": [
+          "gen",
+          "yield",
+          "return",
+          "async"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the result of list(range(21, 24)) in Python?",
+        "options": [
+          "range",
+          "list",
+          "tuple",
+          "generator"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which method creates an iterator that yields pairs from two iterables?",
+        "options": [
+          "zip()",
+          "map()",
+          "filter()",
+          "reduce()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which module provides JSON encoding/decoding?",
+        "options": [
+          "yaml",
+          "json",
+          "pickle",
+          "xml"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which built-in function applies a function to all items and returns an iterator?",
+        "options": [
+          "map()",
+          "apply()",
+          "each()",
+          "for_each()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which keyword will create a generator function?",
+        "options": [
+          "gen",
+          "yield",
+          "return",
+          "async"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the result of list(range(26, 29)) in Python?",
+        "options": [
+          "range",
+          "list",
+          "tuple",
+          "generator"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which method creates an iterator that yields pairs from two iterables?",
+        "options": [
+          "zip()",
+          "map()",
+          "filter()",
+          "reduce()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which module provides JSON encoding/decoding?",
+        "options": [
+          "yaml",
+          "json",
+          "pickle",
+          "xml"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which built-in function applies a function to all items and returns an iterator?",
+        "options": [
+          "map()",
+          "apply()",
+          "each()",
+          "for_each()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which keyword will create a generator function?",
+        "options": [
+          "gen",
+          "yield",
+          "return",
+          "async"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the result of list(range(31, 34)) in Python?",
+        "options": [
+          "range",
+          "list",
+          "tuple",
+          "generator"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which method creates an iterator that yields pairs from two iterables?",
+        "options": [
+          "zip()",
+          "map()",
+          "filter()",
+          "reduce()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which module provides JSON encoding/decoding?",
+        "options": [
+          "yaml",
+          "json",
+          "pickle",
+          "xml"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which built-in function applies a function to all items and returns an iterator?",
+        "options": [
+          "map()",
+          "apply()",
+          "each()",
+          "for_each()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which keyword will create a generator function?",
+        "options": [
+          "gen",
+          "yield",
+          "return",
+          "async"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the result of list(range(36, 39)) in Python?",
+        "options": [
+          "range",
+          "list",
+          "tuple",
+          "generator"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which method creates an iterator that yields pairs from two iterables?",
+        "options": [
+          "zip()",
+          "map()",
+          "filter()",
+          "reduce()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which module provides JSON encoding/decoding?",
+        "options": [
+          "yaml",
+          "json",
+          "pickle",
+          "xml"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which built-in function applies a function to all items and returns an iterator?",
+        "options": [
+          "map()",
+          "apply()",
+          "each()",
+          "for_each()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which keyword will create a generator function?",
+        "options": [
+          "gen",
+          "yield",
+          "return",
+          "async"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the result of list(range(41, 44)) in Python?",
+        "options": [
+          "range",
+          "list",
+          "tuple",
+          "generator"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which method creates an iterator that yields pairs from two iterables?",
+        "options": [
+          "zip()",
+          "map()",
+          "filter()",
+          "reduce()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which module provides JSON encoding/decoding?",
+        "options": [
+          "yaml",
+          "json",
+          "pickle",
+          "xml"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which built-in function applies a function to all items and returns an iterator?",
+        "options": [
+          "map()",
+          "apply()",
+          "each()",
+          "for_each()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which keyword will create a generator function?",
+        "options": [
+          "gen",
+          "yield",
+          "return",
+          "async"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the result of list(range(46, 49)) in Python?",
+        "options": [
+          "range",
+          "list",
+          "tuple",
+          "generator"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which method creates an iterator that yields pairs from two iterables?",
+        "options": [
+          "zip()",
+          "map()",
+          "filter()",
+          "reduce()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which module provides JSON encoding/decoding?",
+        "options": [
+          "yaml",
+          "json",
+          "pickle",
+          "xml"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which built-in function applies a function to all items and returns an iterator?",
+        "options": [
+          "map()",
+          "apply()",
+          "each()",
+          "for_each()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which keyword will create a generator function?",
+        "options": [
+          "gen",
+          "yield",
+          "return",
+          "async"
+        ],
+        "answerIndex": 1
+      }
+    ]
+  },
+  "html": {
+    "beginner": [
+      {
+        "question": "Which attribute sets the URL for a link?",
+        "options": [
+          "src",
+          "href",
+          "link",
+          "url"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which tag is used for a paragraph?",
+        "options": [
+          "<p>",
+          "<para>",
+          "<text>",
+          "<div>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag contains the document's metadata?",
+        "options": [
+          "<meta>",
+          "<data>",
+          "<info>",
+          "<head>"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "HyperText Markup Language",
+          "HighText Machine Language",
+          "Hyperlinks Text Mark Language",
+          "None"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag defines a top-level heading?",
+        "options": [
+          "<h1>",
+          "<head>",
+          "<title>",
+          "<header>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute sets the URL for a link?",
+        "options": [
+          "src",
+          "href",
+          "link",
+          "url"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which tag is used for a paragraph?",
+        "options": [
+          "<p>",
+          "<para>",
+          "<text>",
+          "<div>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag contains the document's metadata?",
+        "options": [
+          "<meta>",
+          "<data>",
+          "<info>",
+          "<head>"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "HyperText Markup Language",
+          "HighText Machine Language",
+          "Hyperlinks Text Mark Language",
+          "None"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag defines a top-level heading?",
+        "options": [
+          "<h1>",
+          "<head>",
+          "<title>",
+          "<header>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute sets the URL for a link?",
+        "options": [
+          "src",
+          "href",
+          "link",
+          "url"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which tag is used for a paragraph?",
+        "options": [
+          "<p>",
+          "<para>",
+          "<text>",
+          "<div>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag contains the document's metadata?",
+        "options": [
+          "<meta>",
+          "<data>",
+          "<info>",
+          "<head>"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "HyperText Markup Language",
+          "HighText Machine Language",
+          "Hyperlinks Text Mark Language",
+          "None"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag defines a top-level heading?",
+        "options": [
+          "<h1>",
+          "<head>",
+          "<title>",
+          "<header>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute sets the URL for a link?",
+        "options": [
+          "src",
+          "href",
+          "link",
+          "url"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which tag is used for a paragraph?",
+        "options": [
+          "<p>",
+          "<para>",
+          "<text>",
+          "<div>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag contains the document's metadata?",
+        "options": [
+          "<meta>",
+          "<data>",
+          "<info>",
+          "<head>"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "HyperText Markup Language",
+          "HighText Machine Language",
+          "Hyperlinks Text Mark Language",
+          "None"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag defines a top-level heading?",
+        "options": [
+          "<h1>",
+          "<head>",
+          "<title>",
+          "<header>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute sets the URL for a link?",
+        "options": [
+          "src",
+          "href",
+          "link",
+          "url"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which tag is used for a paragraph?",
+        "options": [
+          "<p>",
+          "<para>",
+          "<text>",
+          "<div>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag contains the document's metadata?",
+        "options": [
+          "<meta>",
+          "<data>",
+          "<info>",
+          "<head>"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "HyperText Markup Language",
+          "HighText Machine Language",
+          "Hyperlinks Text Mark Language",
+          "None"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag defines a top-level heading?",
+        "options": [
+          "<h1>",
+          "<head>",
+          "<title>",
+          "<header>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute sets the URL for a link?",
+        "options": [
+          "src",
+          "href",
+          "link",
+          "url"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which tag is used for a paragraph?",
+        "options": [
+          "<p>",
+          "<para>",
+          "<text>",
+          "<div>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag contains the document's metadata?",
+        "options": [
+          "<meta>",
+          "<data>",
+          "<info>",
+          "<head>"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "HyperText Markup Language",
+          "HighText Machine Language",
+          "Hyperlinks Text Mark Language",
+          "None"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag defines a top-level heading?",
+        "options": [
+          "<h1>",
+          "<head>",
+          "<title>",
+          "<header>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute sets the URL for a link?",
+        "options": [
+          "src",
+          "href",
+          "link",
+          "url"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which tag is used for a paragraph?",
+        "options": [
+          "<p>",
+          "<para>",
+          "<text>",
+          "<div>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag contains the document's metadata?",
+        "options": [
+          "<meta>",
+          "<data>",
+          "<info>",
+          "<head>"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "HyperText Markup Language",
+          "HighText Machine Language",
+          "Hyperlinks Text Mark Language",
+          "None"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag defines a top-level heading?",
+        "options": [
+          "<h1>",
+          "<head>",
+          "<title>",
+          "<header>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute sets the URL for a link?",
+        "options": [
+          "src",
+          "href",
+          "link",
+          "url"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which tag is used for a paragraph?",
+        "options": [
+          "<p>",
+          "<para>",
+          "<text>",
+          "<div>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag contains the document's metadata?",
+        "options": [
+          "<meta>",
+          "<data>",
+          "<info>",
+          "<head>"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "HyperText Markup Language",
+          "HighText Machine Language",
+          "Hyperlinks Text Mark Language",
+          "None"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag defines a top-level heading?",
+        "options": [
+          "<h1>",
+          "<head>",
+          "<title>",
+          "<header>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute sets the URL for a link?",
+        "options": [
+          "src",
+          "href",
+          "link",
+          "url"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which tag is used for a paragraph?",
+        "options": [
+          "<p>",
+          "<para>",
+          "<text>",
+          "<div>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag contains the document's metadata?",
+        "options": [
+          "<meta>",
+          "<data>",
+          "<info>",
+          "<head>"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "HyperText Markup Language",
+          "HighText Machine Language",
+          "Hyperlinks Text Mark Language",
+          "None"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag defines a top-level heading?",
+        "options": [
+          "<h1>",
+          "<head>",
+          "<title>",
+          "<header>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute sets the URL for a link?",
+        "options": [
+          "src",
+          "href",
+          "link",
+          "url"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which tag is used for a paragraph?",
+        "options": [
+          "<p>",
+          "<para>",
+          "<text>",
+          "<div>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag contains the document's metadata?",
+        "options": [
+          "<meta>",
+          "<data>",
+          "<info>",
+          "<head>"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "HyperText Markup Language",
+          "HighText Machine Language",
+          "Hyperlinks Text Mark Language",
+          "None"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag defines a top-level heading?",
+        "options": [
+          "<h1>",
+          "<head>",
+          "<title>",
+          "<header>"
+        ],
+        "answerIndex": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "question": "Which attribute provides alternative text for images?",
+        "options": [
+          "alt",
+          "title",
+          "desc",
+          "text"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag creates an ordered list?",
+        "options": [
+          "<ul>",
+          "<li>",
+          "<ol>",
+          "<list>"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which tag is semantic for navigation?",
+        "options": [
+          "<nav>",
+          "<section>",
+          "<aside>",
+          "<article>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the correct doctype declaration for HTML5?",
+        "options": [
+          "<!DOCTYPE html>",
+          "<!doctype HTML5>",
+          "<!DOCTYPE HTML>",
+          "<!doctype html5>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag groups form elements logically?",
+        "options": [
+          "<fieldset>",
+          "<div>",
+          "<group>",
+          "<form>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute provides alternative text for images?",
+        "options": [
+          "alt",
+          "title",
+          "desc",
+          "text"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag creates an ordered list?",
+        "options": [
+          "<ul>",
+          "<li>",
+          "<ol>",
+          "<list>"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which tag is semantic for navigation?",
+        "options": [
+          "<nav>",
+          "<section>",
+          "<aside>",
+          "<article>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the correct doctype declaration for HTML5?",
+        "options": [
+          "<!DOCTYPE html>",
+          "<!doctype HTML5>",
+          "<!DOCTYPE HTML>",
+          "<!doctype html5>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag groups form elements logically?",
+        "options": [
+          "<fieldset>",
+          "<div>",
+          "<group>",
+          "<form>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute provides alternative text for images?",
+        "options": [
+          "alt",
+          "title",
+          "desc",
+          "text"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag creates an ordered list?",
+        "options": [
+          "<ul>",
+          "<li>",
+          "<ol>",
+          "<list>"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which tag is semantic for navigation?",
+        "options": [
+          "<nav>",
+          "<section>",
+          "<aside>",
+          "<article>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the correct doctype declaration for HTML5?",
+        "options": [
+          "<!DOCTYPE html>",
+          "<!doctype HTML5>",
+          "<!DOCTYPE HTML>",
+          "<!doctype html5>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag groups form elements logically?",
+        "options": [
+          "<fieldset>",
+          "<div>",
+          "<group>",
+          "<form>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute provides alternative text for images?",
+        "options": [
+          "alt",
+          "title",
+          "desc",
+          "text"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag creates an ordered list?",
+        "options": [
+          "<ul>",
+          "<li>",
+          "<ol>",
+          "<list>"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which tag is semantic for navigation?",
+        "options": [
+          "<nav>",
+          "<section>",
+          "<aside>",
+          "<article>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the correct doctype declaration for HTML5?",
+        "options": [
+          "<!DOCTYPE html>",
+          "<!doctype HTML5>",
+          "<!DOCTYPE HTML>",
+          "<!doctype html5>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag groups form elements logically?",
+        "options": [
+          "<fieldset>",
+          "<div>",
+          "<group>",
+          "<form>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute provides alternative text for images?",
+        "options": [
+          "alt",
+          "title",
+          "desc",
+          "text"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag creates an ordered list?",
+        "options": [
+          "<ul>",
+          "<li>",
+          "<ol>",
+          "<list>"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which tag is semantic for navigation?",
+        "options": [
+          "<nav>",
+          "<section>",
+          "<aside>",
+          "<article>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the correct doctype declaration for HTML5?",
+        "options": [
+          "<!DOCTYPE html>",
+          "<!doctype HTML5>",
+          "<!DOCTYPE HTML>",
+          "<!doctype html5>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag groups form elements logically?",
+        "options": [
+          "<fieldset>",
+          "<div>",
+          "<group>",
+          "<form>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute provides alternative text for images?",
+        "options": [
+          "alt",
+          "title",
+          "desc",
+          "text"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag creates an ordered list?",
+        "options": [
+          "<ul>",
+          "<li>",
+          "<ol>",
+          "<list>"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which tag is semantic for navigation?",
+        "options": [
+          "<nav>",
+          "<section>",
+          "<aside>",
+          "<article>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the correct doctype declaration for HTML5?",
+        "options": [
+          "<!DOCTYPE html>",
+          "<!doctype HTML5>",
+          "<!DOCTYPE HTML>",
+          "<!doctype html5>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag groups form elements logically?",
+        "options": [
+          "<fieldset>",
+          "<div>",
+          "<group>",
+          "<form>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute provides alternative text for images?",
+        "options": [
+          "alt",
+          "title",
+          "desc",
+          "text"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag creates an ordered list?",
+        "options": [
+          "<ul>",
+          "<li>",
+          "<ol>",
+          "<list>"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which tag is semantic for navigation?",
+        "options": [
+          "<nav>",
+          "<section>",
+          "<aside>",
+          "<article>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the correct doctype declaration for HTML5?",
+        "options": [
+          "<!DOCTYPE html>",
+          "<!doctype HTML5>",
+          "<!DOCTYPE HTML>",
+          "<!doctype html5>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag groups form elements logically?",
+        "options": [
+          "<fieldset>",
+          "<div>",
+          "<group>",
+          "<form>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute provides alternative text for images?",
+        "options": [
+          "alt",
+          "title",
+          "desc",
+          "text"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag creates an ordered list?",
+        "options": [
+          "<ul>",
+          "<li>",
+          "<ol>",
+          "<list>"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which tag is semantic for navigation?",
+        "options": [
+          "<nav>",
+          "<section>",
+          "<aside>",
+          "<article>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the correct doctype declaration for HTML5?",
+        "options": [
+          "<!DOCTYPE html>",
+          "<!doctype HTML5>",
+          "<!DOCTYPE HTML>",
+          "<!doctype html5>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag groups form elements logically?",
+        "options": [
+          "<fieldset>",
+          "<div>",
+          "<group>",
+          "<form>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute provides alternative text for images?",
+        "options": [
+          "alt",
+          "title",
+          "desc",
+          "text"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag creates an ordered list?",
+        "options": [
+          "<ul>",
+          "<li>",
+          "<ol>",
+          "<list>"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which tag is semantic for navigation?",
+        "options": [
+          "<nav>",
+          "<section>",
+          "<aside>",
+          "<article>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the correct doctype declaration for HTML5?",
+        "options": [
+          "<!DOCTYPE html>",
+          "<!doctype HTML5>",
+          "<!DOCTYPE HTML>",
+          "<!doctype html5>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag groups form elements logically?",
+        "options": [
+          "<fieldset>",
+          "<div>",
+          "<group>",
+          "<form>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute provides alternative text for images?",
+        "options": [
+          "alt",
+          "title",
+          "desc",
+          "text"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag creates an ordered list?",
+        "options": [
+          "<ul>",
+          "<li>",
+          "<ol>",
+          "<list>"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which tag is semantic for navigation?",
+        "options": [
+          "<nav>",
+          "<section>",
+          "<aside>",
+          "<article>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the correct doctype declaration for HTML5?",
+        "options": [
+          "<!DOCTYPE html>",
+          "<!doctype HTML5>",
+          "<!DOCTYPE HTML>",
+          "<!doctype html5>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag groups form elements logically?",
+        "options": [
+          "<fieldset>",
+          "<div>",
+          "<group>",
+          "<form>"
+        ],
+        "answerIndex": 0
+      }
+    ],
+    "advanced": [
+      {
+        "question": "Which tag is used to embed inline SVG?",
+        "options": [
+          "<svg>",
+          "<vector>",
+          "<canvas>",
+          "<img>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which API allows drag-and-drop in modern browsers?",
+        "options": [
+          "Drag API",
+          "DragDrop API",
+          "HTML5 Drag and Drop",
+          "DND API"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which element is used for microdata/semantic annotations?",
+        "options": [
+          "<data>",
+          "<meta>",
+          "<mark>",
+          "<time>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute changes the language of the document?",
+        "options": [
+          "lang",
+          "xml:lang",
+          "locale",
+          "language"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute allows responsive images with srcset?",
+        "options": [
+          "srcset",
+          "sizes",
+          "src",
+          "picture"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag is used to embed inline SVG?",
+        "options": [
+          "<svg>",
+          "<vector>",
+          "<canvas>",
+          "<img>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which API allows drag-and-drop in modern browsers?",
+        "options": [
+          "Drag API",
+          "DragDrop API",
+          "HTML5 Drag and Drop",
+          "DND API"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which element is used for microdata/semantic annotations?",
+        "options": [
+          "<data>",
+          "<meta>",
+          "<mark>",
+          "<time>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute changes the language of the document?",
+        "options": [
+          "lang",
+          "xml:lang",
+          "locale",
+          "language"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute allows responsive images with srcset?",
+        "options": [
+          "srcset",
+          "sizes",
+          "src",
+          "picture"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag is used to embed inline SVG?",
+        "options": [
+          "<svg>",
+          "<vector>",
+          "<canvas>",
+          "<img>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which API allows drag-and-drop in modern browsers?",
+        "options": [
+          "Drag API",
+          "DragDrop API",
+          "HTML5 Drag and Drop",
+          "DND API"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which element is used for microdata/semantic annotations?",
+        "options": [
+          "<data>",
+          "<meta>",
+          "<mark>",
+          "<time>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute changes the language of the document?",
+        "options": [
+          "lang",
+          "xml:lang",
+          "locale",
+          "language"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute allows responsive images with srcset?",
+        "options": [
+          "srcset",
+          "sizes",
+          "src",
+          "picture"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag is used to embed inline SVG?",
+        "options": [
+          "<svg>",
+          "<vector>",
+          "<canvas>",
+          "<img>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which API allows drag-and-drop in modern browsers?",
+        "options": [
+          "Drag API",
+          "DragDrop API",
+          "HTML5 Drag and Drop",
+          "DND API"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which element is used for microdata/semantic annotations?",
+        "options": [
+          "<data>",
+          "<meta>",
+          "<mark>",
+          "<time>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute changes the language of the document?",
+        "options": [
+          "lang",
+          "xml:lang",
+          "locale",
+          "language"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute allows responsive images with srcset?",
+        "options": [
+          "srcset",
+          "sizes",
+          "src",
+          "picture"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag is used to embed inline SVG?",
+        "options": [
+          "<svg>",
+          "<vector>",
+          "<canvas>",
+          "<img>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which API allows drag-and-drop in modern browsers?",
+        "options": [
+          "Drag API",
+          "DragDrop API",
+          "HTML5 Drag and Drop",
+          "DND API"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which element is used for microdata/semantic annotations?",
+        "options": [
+          "<data>",
+          "<meta>",
+          "<mark>",
+          "<time>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute changes the language of the document?",
+        "options": [
+          "lang",
+          "xml:lang",
+          "locale",
+          "language"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute allows responsive images with srcset?",
+        "options": [
+          "srcset",
+          "sizes",
+          "src",
+          "picture"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag is used to embed inline SVG?",
+        "options": [
+          "<svg>",
+          "<vector>",
+          "<canvas>",
+          "<img>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which API allows drag-and-drop in modern browsers?",
+        "options": [
+          "Drag API",
+          "DragDrop API",
+          "HTML5 Drag and Drop",
+          "DND API"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which element is used for microdata/semantic annotations?",
+        "options": [
+          "<data>",
+          "<meta>",
+          "<mark>",
+          "<time>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute changes the language of the document?",
+        "options": [
+          "lang",
+          "xml:lang",
+          "locale",
+          "language"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute allows responsive images with srcset?",
+        "options": [
+          "srcset",
+          "sizes",
+          "src",
+          "picture"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag is used to embed inline SVG?",
+        "options": [
+          "<svg>",
+          "<vector>",
+          "<canvas>",
+          "<img>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which API allows drag-and-drop in modern browsers?",
+        "options": [
+          "Drag API",
+          "DragDrop API",
+          "HTML5 Drag and Drop",
+          "DND API"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which element is used for microdata/semantic annotations?",
+        "options": [
+          "<data>",
+          "<meta>",
+          "<mark>",
+          "<time>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute changes the language of the document?",
+        "options": [
+          "lang",
+          "xml:lang",
+          "locale",
+          "language"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute allows responsive images with srcset?",
+        "options": [
+          "srcset",
+          "sizes",
+          "src",
+          "picture"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag is used to embed inline SVG?",
+        "options": [
+          "<svg>",
+          "<vector>",
+          "<canvas>",
+          "<img>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which API allows drag-and-drop in modern browsers?",
+        "options": [
+          "Drag API",
+          "DragDrop API",
+          "HTML5 Drag and Drop",
+          "DND API"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which element is used for microdata/semantic annotations?",
+        "options": [
+          "<data>",
+          "<meta>",
+          "<mark>",
+          "<time>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute changes the language of the document?",
+        "options": [
+          "lang",
+          "xml:lang",
+          "locale",
+          "language"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute allows responsive images with srcset?",
+        "options": [
+          "srcset",
+          "sizes",
+          "src",
+          "picture"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag is used to embed inline SVG?",
+        "options": [
+          "<svg>",
+          "<vector>",
+          "<canvas>",
+          "<img>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which API allows drag-and-drop in modern browsers?",
+        "options": [
+          "Drag API",
+          "DragDrop API",
+          "HTML5 Drag and Drop",
+          "DND API"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which element is used for microdata/semantic annotations?",
+        "options": [
+          "<data>",
+          "<meta>",
+          "<mark>",
+          "<time>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute changes the language of the document?",
+        "options": [
+          "lang",
+          "xml:lang",
+          "locale",
+          "language"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute allows responsive images with srcset?",
+        "options": [
+          "srcset",
+          "sizes",
+          "src",
+          "picture"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tag is used to embed inline SVG?",
+        "options": [
+          "<svg>",
+          "<vector>",
+          "<canvas>",
+          "<img>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which API allows drag-and-drop in modern browsers?",
+        "options": [
+          "Drag API",
+          "DragDrop API",
+          "HTML5 Drag and Drop",
+          "DND API"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which element is used for microdata/semantic annotations?",
+        "options": [
+          "<data>",
+          "<meta>",
+          "<mark>",
+          "<time>"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute changes the language of the document?",
+        "options": [
+          "lang",
+          "xml:lang",
+          "locale",
+          "language"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which attribute allows responsive images with srcset?",
+        "options": [
+          "srcset",
+          "sizes",
+          "src",
+          "picture"
+        ],
+        "answerIndex": 0
+      }
+    ]
+  },
+  "css": {
+    "beginner": [
+      {
+        "question": "Which property sets the background color?",
+        "options": [
+          "bg",
+          "background-color",
+          "back-color",
+          "color-back"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit is relative to the font-size of the root element?",
+        "options": [
+          "px",
+          "em",
+          "rem",
+          "%"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which selector targets elements by class?",
+        "options": [
+          ".class",
+          "#id",
+          "element",
+          "*"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property changes font size?",
+        "options": [
+          "font-size",
+          "text-size",
+          "size",
+          "font"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the text color in CSS?",
+        "options": [
+          "color",
+          "background",
+          "font",
+          "text-color"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the background color?",
+        "options": [
+          "bg",
+          "background-color",
+          "back-color",
+          "color-back"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit is relative to the font-size of the root element?",
+        "options": [
+          "px",
+          "em",
+          "rem",
+          "%"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which selector targets elements by class?",
+        "options": [
+          ".class",
+          "#id",
+          "element",
+          "*"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property changes font size?",
+        "options": [
+          "font-size",
+          "text-size",
+          "size",
+          "font"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the text color in CSS?",
+        "options": [
+          "color",
+          "background",
+          "font",
+          "text-color"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the background color?",
+        "options": [
+          "bg",
+          "background-color",
+          "back-color",
+          "color-back"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit is relative to the font-size of the root element?",
+        "options": [
+          "px",
+          "em",
+          "rem",
+          "%"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which selector targets elements by class?",
+        "options": [
+          ".class",
+          "#id",
+          "element",
+          "*"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property changes font size?",
+        "options": [
+          "font-size",
+          "text-size",
+          "size",
+          "font"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the text color in CSS?",
+        "options": [
+          "color",
+          "background",
+          "font",
+          "text-color"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the background color?",
+        "options": [
+          "bg",
+          "background-color",
+          "back-color",
+          "color-back"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit is relative to the font-size of the root element?",
+        "options": [
+          "px",
+          "em",
+          "rem",
+          "%"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which selector targets elements by class?",
+        "options": [
+          ".class",
+          "#id",
+          "element",
+          "*"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property changes font size?",
+        "options": [
+          "font-size",
+          "text-size",
+          "size",
+          "font"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the text color in CSS?",
+        "options": [
+          "color",
+          "background",
+          "font",
+          "text-color"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the background color?",
+        "options": [
+          "bg",
+          "background-color",
+          "back-color",
+          "color-back"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit is relative to the font-size of the root element?",
+        "options": [
+          "px",
+          "em",
+          "rem",
+          "%"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which selector targets elements by class?",
+        "options": [
+          ".class",
+          "#id",
+          "element",
+          "*"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property changes font size?",
+        "options": [
+          "font-size",
+          "text-size",
+          "size",
+          "font"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the text color in CSS?",
+        "options": [
+          "color",
+          "background",
+          "font",
+          "text-color"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the background color?",
+        "options": [
+          "bg",
+          "background-color",
+          "back-color",
+          "color-back"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit is relative to the font-size of the root element?",
+        "options": [
+          "px",
+          "em",
+          "rem",
+          "%"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which selector targets elements by class?",
+        "options": [
+          ".class",
+          "#id",
+          "element",
+          "*"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property changes font size?",
+        "options": [
+          "font-size",
+          "text-size",
+          "size",
+          "font"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the text color in CSS?",
+        "options": [
+          "color",
+          "background",
+          "font",
+          "text-color"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the background color?",
+        "options": [
+          "bg",
+          "background-color",
+          "back-color",
+          "color-back"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit is relative to the font-size of the root element?",
+        "options": [
+          "px",
+          "em",
+          "rem",
+          "%"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which selector targets elements by class?",
+        "options": [
+          ".class",
+          "#id",
+          "element",
+          "*"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property changes font size?",
+        "options": [
+          "font-size",
+          "text-size",
+          "size",
+          "font"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the text color in CSS?",
+        "options": [
+          "color",
+          "background",
+          "font",
+          "text-color"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the background color?",
+        "options": [
+          "bg",
+          "background-color",
+          "back-color",
+          "color-back"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit is relative to the font-size of the root element?",
+        "options": [
+          "px",
+          "em",
+          "rem",
+          "%"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which selector targets elements by class?",
+        "options": [
+          ".class",
+          "#id",
+          "element",
+          "*"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property changes font size?",
+        "options": [
+          "font-size",
+          "text-size",
+          "size",
+          "font"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the text color in CSS?",
+        "options": [
+          "color",
+          "background",
+          "font",
+          "text-color"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the background color?",
+        "options": [
+          "bg",
+          "background-color",
+          "back-color",
+          "color-back"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit is relative to the font-size of the root element?",
+        "options": [
+          "px",
+          "em",
+          "rem",
+          "%"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which selector targets elements by class?",
+        "options": [
+          ".class",
+          "#id",
+          "element",
+          "*"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property changes font size?",
+        "options": [
+          "font-size",
+          "text-size",
+          "size",
+          "font"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the text color in CSS?",
+        "options": [
+          "color",
+          "background",
+          "font",
+          "text-color"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the background color?",
+        "options": [
+          "bg",
+          "background-color",
+          "back-color",
+          "color-back"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit is relative to the font-size of the root element?",
+        "options": [
+          "px",
+          "em",
+          "rem",
+          "%"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which selector targets elements by class?",
+        "options": [
+          ".class",
+          "#id",
+          "element",
+          "*"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property changes font size?",
+        "options": [
+          "font-size",
+          "text-size",
+          "size",
+          "font"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which property sets the text color in CSS?",
+        "options": [
+          "color",
+          "background",
+          "font",
+          "text-color"
+        ],
+        "answerIndex": 0
+      }
+    ],
+    "intermediate": [
+      {
+        "question": "Which property controls the box model outer spacing?",
+        "options": [
+          "padding",
+          "margin",
+          "border",
+          "gap"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property adds rounded corners?",
+        "options": [
+          "radius",
+          "border-radius",
+          "corner",
+          "round"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit scales with viewport width?",
+        "options": [
+          "vh",
+          "vw",
+          "rem",
+          "em"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property controls layering order?",
+        "options": [
+          "z-index",
+          "order",
+          "stack",
+          "layer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which display value creates a flex container?",
+        "options": [
+          "block",
+          "inline",
+          "flex",
+          "grid"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which property controls the box model outer spacing?",
+        "options": [
+          "padding",
+          "margin",
+          "border",
+          "gap"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property adds rounded corners?",
+        "options": [
+          "radius",
+          "border-radius",
+          "corner",
+          "round"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit scales with viewport width?",
+        "options": [
+          "vh",
+          "vw",
+          "rem",
+          "em"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property controls layering order?",
+        "options": [
+          "z-index",
+          "order",
+          "stack",
+          "layer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which display value creates a flex container?",
+        "options": [
+          "block",
+          "inline",
+          "flex",
+          "grid"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which property controls the box model outer spacing?",
+        "options": [
+          "padding",
+          "margin",
+          "border",
+          "gap"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property adds rounded corners?",
+        "options": [
+          "radius",
+          "border-radius",
+          "corner",
+          "round"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit scales with viewport width?",
+        "options": [
+          "vh",
+          "vw",
+          "rem",
+          "em"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property controls layering order?",
+        "options": [
+          "z-index",
+          "order",
+          "stack",
+          "layer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which display value creates a flex container?",
+        "options": [
+          "block",
+          "inline",
+          "flex",
+          "grid"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which property controls the box model outer spacing?",
+        "options": [
+          "padding",
+          "margin",
+          "border",
+          "gap"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property adds rounded corners?",
+        "options": [
+          "radius",
+          "border-radius",
+          "corner",
+          "round"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit scales with viewport width?",
+        "options": [
+          "vh",
+          "vw",
+          "rem",
+          "em"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property controls layering order?",
+        "options": [
+          "z-index",
+          "order",
+          "stack",
+          "layer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which display value creates a flex container?",
+        "options": [
+          "block",
+          "inline",
+          "flex",
+          "grid"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which property controls the box model outer spacing?",
+        "options": [
+          "padding",
+          "margin",
+          "border",
+          "gap"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property adds rounded corners?",
+        "options": [
+          "radius",
+          "border-radius",
+          "corner",
+          "round"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit scales with viewport width?",
+        "options": [
+          "vh",
+          "vw",
+          "rem",
+          "em"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property controls layering order?",
+        "options": [
+          "z-index",
+          "order",
+          "stack",
+          "layer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which display value creates a flex container?",
+        "options": [
+          "block",
+          "inline",
+          "flex",
+          "grid"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which property controls the box model outer spacing?",
+        "options": [
+          "padding",
+          "margin",
+          "border",
+          "gap"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property adds rounded corners?",
+        "options": [
+          "radius",
+          "border-radius",
+          "corner",
+          "round"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit scales with viewport width?",
+        "options": [
+          "vh",
+          "vw",
+          "rem",
+          "em"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property controls layering order?",
+        "options": [
+          "z-index",
+          "order",
+          "stack",
+          "layer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which display value creates a flex container?",
+        "options": [
+          "block",
+          "inline",
+          "flex",
+          "grid"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which property controls the box model outer spacing?",
+        "options": [
+          "padding",
+          "margin",
+          "border",
+          "gap"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property adds rounded corners?",
+        "options": [
+          "radius",
+          "border-radius",
+          "corner",
+          "round"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit scales with viewport width?",
+        "options": [
+          "vh",
+          "vw",
+          "rem",
+          "em"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property controls layering order?",
+        "options": [
+          "z-index",
+          "order",
+          "stack",
+          "layer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which display value creates a flex container?",
+        "options": [
+          "block",
+          "inline",
+          "flex",
+          "grid"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which property controls the box model outer spacing?",
+        "options": [
+          "padding",
+          "margin",
+          "border",
+          "gap"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property adds rounded corners?",
+        "options": [
+          "radius",
+          "border-radius",
+          "corner",
+          "round"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit scales with viewport width?",
+        "options": [
+          "vh",
+          "vw",
+          "rem",
+          "em"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property controls layering order?",
+        "options": [
+          "z-index",
+          "order",
+          "stack",
+          "layer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which display value creates a flex container?",
+        "options": [
+          "block",
+          "inline",
+          "flex",
+          "grid"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which property controls the box model outer spacing?",
+        "options": [
+          "padding",
+          "margin",
+          "border",
+          "gap"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property adds rounded corners?",
+        "options": [
+          "radius",
+          "border-radius",
+          "corner",
+          "round"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit scales with viewport width?",
+        "options": [
+          "vh",
+          "vw",
+          "rem",
+          "em"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property controls layering order?",
+        "options": [
+          "z-index",
+          "order",
+          "stack",
+          "layer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which display value creates a flex container?",
+        "options": [
+          "block",
+          "inline",
+          "flex",
+          "grid"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which property controls the box model outer spacing?",
+        "options": [
+          "padding",
+          "margin",
+          "border",
+          "gap"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property adds rounded corners?",
+        "options": [
+          "radius",
+          "border-radius",
+          "corner",
+          "round"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which unit scales with viewport width?",
+        "options": [
+          "vh",
+          "vw",
+          "rem",
+          "em"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property controls layering order?",
+        "options": [
+          "z-index",
+          "order",
+          "stack",
+          "layer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which display value creates a flex container?",
+        "options": [
+          "block",
+          "inline",
+          "flex",
+          "grid"
+        ],
+        "answerIndex": 2
+      }
+    ],
+    "advanced": [
+      {
+        "question": "Which property defines CSS custom properties (variables)?",
+        "options": [
+          "--var",
+          "var()",
+          ":root",
+          "custom"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which function helps manipulate colors (adjust alpha) in modern CSS?",
+        "options": [
+          "rgba()",
+          "hsla()",
+          "opacity()",
+          "color()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which layout uses grid-template-columns property?",
+        "options": [
+          "Flexbox",
+          "Grid",
+          "Block",
+          "Inline"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property animates transitions?",
+        "options": [
+          "animation",
+          "transition",
+          "transform",
+          "motion"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which selector targets an element with id 'app'?",
+        "options": [
+          ".app",
+          "#app",
+          "app",
+          "*"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property defines CSS custom properties (variables)?",
+        "options": [
+          "--var",
+          "var()",
+          ":root",
+          "custom"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which function helps manipulate colors (adjust alpha) in modern CSS?",
+        "options": [
+          "rgba()",
+          "hsla()",
+          "opacity()",
+          "color()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which layout uses grid-template-columns property?",
+        "options": [
+          "Flexbox",
+          "Grid",
+          "Block",
+          "Inline"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property animates transitions?",
+        "options": [
+          "animation",
+          "transition",
+          "transform",
+          "motion"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which selector targets an element with id 'app'?",
+        "options": [
+          ".app",
+          "#app",
+          "app",
+          "*"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property defines CSS custom properties (variables)?",
+        "options": [
+          "--var",
+          "var()",
+          ":root",
+          "custom"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which function helps manipulate colors (adjust alpha) in modern CSS?",
+        "options": [
+          "rgba()",
+          "hsla()",
+          "opacity()",
+          "color()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which layout uses grid-template-columns property?",
+        "options": [
+          "Flexbox",
+          "Grid",
+          "Block",
+          "Inline"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property animates transitions?",
+        "options": [
+          "animation",
+          "transition",
+          "transform",
+          "motion"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which selector targets an element with id 'app'?",
+        "options": [
+          ".app",
+          "#app",
+          "app",
+          "*"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property defines CSS custom properties (variables)?",
+        "options": [
+          "--var",
+          "var()",
+          ":root",
+          "custom"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which function helps manipulate colors (adjust alpha) in modern CSS?",
+        "options": [
+          "rgba()",
+          "hsla()",
+          "opacity()",
+          "color()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which layout uses grid-template-columns property?",
+        "options": [
+          "Flexbox",
+          "Grid",
+          "Block",
+          "Inline"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property animates transitions?",
+        "options": [
+          "animation",
+          "transition",
+          "transform",
+          "motion"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which selector targets an element with id 'app'?",
+        "options": [
+          ".app",
+          "#app",
+          "app",
+          "*"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property defines CSS custom properties (variables)?",
+        "options": [
+          "--var",
+          "var()",
+          ":root",
+          "custom"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which function helps manipulate colors (adjust alpha) in modern CSS?",
+        "options": [
+          "rgba()",
+          "hsla()",
+          "opacity()",
+          "color()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which layout uses grid-template-columns property?",
+        "options": [
+          "Flexbox",
+          "Grid",
+          "Block",
+          "Inline"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property animates transitions?",
+        "options": [
+          "animation",
+          "transition",
+          "transform",
+          "motion"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which selector targets an element with id 'app'?",
+        "options": [
+          ".app",
+          "#app",
+          "app",
+          "*"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property defines CSS custom properties (variables)?",
+        "options": [
+          "--var",
+          "var()",
+          ":root",
+          "custom"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which function helps manipulate colors (adjust alpha) in modern CSS?",
+        "options": [
+          "rgba()",
+          "hsla()",
+          "opacity()",
+          "color()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which layout uses grid-template-columns property?",
+        "options": [
+          "Flexbox",
+          "Grid",
+          "Block",
+          "Inline"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property animates transitions?",
+        "options": [
+          "animation",
+          "transition",
+          "transform",
+          "motion"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which selector targets an element with id 'app'?",
+        "options": [
+          ".app",
+          "#app",
+          "app",
+          "*"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property defines CSS custom properties (variables)?",
+        "options": [
+          "--var",
+          "var()",
+          ":root",
+          "custom"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which function helps manipulate colors (adjust alpha) in modern CSS?",
+        "options": [
+          "rgba()",
+          "hsla()",
+          "opacity()",
+          "color()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which layout uses grid-template-columns property?",
+        "options": [
+          "Flexbox",
+          "Grid",
+          "Block",
+          "Inline"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property animates transitions?",
+        "options": [
+          "animation",
+          "transition",
+          "transform",
+          "motion"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which selector targets an element with id 'app'?",
+        "options": [
+          ".app",
+          "#app",
+          "app",
+          "*"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property defines CSS custom properties (variables)?",
+        "options": [
+          "--var",
+          "var()",
+          ":root",
+          "custom"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which function helps manipulate colors (adjust alpha) in modern CSS?",
+        "options": [
+          "rgba()",
+          "hsla()",
+          "opacity()",
+          "color()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which layout uses grid-template-columns property?",
+        "options": [
+          "Flexbox",
+          "Grid",
+          "Block",
+          "Inline"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property animates transitions?",
+        "options": [
+          "animation",
+          "transition",
+          "transform",
+          "motion"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which selector targets an element with id 'app'?",
+        "options": [
+          ".app",
+          "#app",
+          "app",
+          "*"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property defines CSS custom properties (variables)?",
+        "options": [
+          "--var",
+          "var()",
+          ":root",
+          "custom"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which function helps manipulate colors (adjust alpha) in modern CSS?",
+        "options": [
+          "rgba()",
+          "hsla()",
+          "opacity()",
+          "color()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which layout uses grid-template-columns property?",
+        "options": [
+          "Flexbox",
+          "Grid",
+          "Block",
+          "Inline"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property animates transitions?",
+        "options": [
+          "animation",
+          "transition",
+          "transform",
+          "motion"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which selector targets an element with id 'app'?",
+        "options": [
+          ".app",
+          "#app",
+          "app",
+          "*"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property defines CSS custom properties (variables)?",
+        "options": [
+          "--var",
+          "var()",
+          ":root",
+          "custom"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which function helps manipulate colors (adjust alpha) in modern CSS?",
+        "options": [
+          "rgba()",
+          "hsla()",
+          "opacity()",
+          "color()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which layout uses grid-template-columns property?",
+        "options": [
+          "Flexbox",
+          "Grid",
+          "Block",
+          "Inline"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which property animates transitions?",
+        "options": [
+          "animation",
+          "transition",
+          "transform",
+          "motion"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which selector targets an element with id 'app'?",
+        "options": [
+          ".app",
+          "#app",
+          "app",
+          "*"
+        ],
+        "answerIndex": 1
+      }
+    ]
+  },
+  "javascript": {
+    "beginner": [
+      {
+        "question": "Which method logs to the console?",
+        "options": [
+          "console.log()",
+          "print()",
+          "log()",
+          "echo()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator compares value and type strictly?",
+        "options": [
+          "==",
+          "=",
+          "===",
+          "!=="
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which global function converts string to number?",
+        "options": [
+          "Number()",
+          "parse()",
+          "toNumber()",
+          "int()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax defines an arrow function?",
+        "options": [
+          "function() => {}",
+          "() => {}",
+          "=> function {}",
+          "func => {}"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword declares a block-scoped constant?",
+        "options": [
+          "var",
+          "let",
+          "const",
+          "static"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which method logs to the console?",
+        "options": [
+          "console.log()",
+          "print()",
+          "log()",
+          "echo()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator compares value and type strictly?",
+        "options": [
+          "==",
+          "=",
+          "===",
+          "!=="
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which global function converts string to number?",
+        "options": [
+          "Number()",
+          "parse()",
+          "toNumber()",
+          "int()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax defines an arrow function?",
+        "options": [
+          "function() => {}",
+          "() => {}",
+          "=> function {}",
+          "func => {}"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword declares a block-scoped constant?",
+        "options": [
+          "var",
+          "let",
+          "const",
+          "static"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which method logs to the console?",
+        "options": [
+          "console.log()",
+          "print()",
+          "log()",
+          "echo()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator compares value and type strictly?",
+        "options": [
+          "==",
+          "=",
+          "===",
+          "!=="
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which global function converts string to number?",
+        "options": [
+          "Number()",
+          "parse()",
+          "toNumber()",
+          "int()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax defines an arrow function?",
+        "options": [
+          "function() => {}",
+          "() => {}",
+          "=> function {}",
+          "func => {}"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword declares a block-scoped constant?",
+        "options": [
+          "var",
+          "let",
+          "const",
+          "static"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which method logs to the console?",
+        "options": [
+          "console.log()",
+          "print()",
+          "log()",
+          "echo()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator compares value and type strictly?",
+        "options": [
+          "==",
+          "=",
+          "===",
+          "!=="
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which global function converts string to number?",
+        "options": [
+          "Number()",
+          "parse()",
+          "toNumber()",
+          "int()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax defines an arrow function?",
+        "options": [
+          "function() => {}",
+          "() => {}",
+          "=> function {}",
+          "func => {}"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword declares a block-scoped constant?",
+        "options": [
+          "var",
+          "let",
+          "const",
+          "static"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which method logs to the console?",
+        "options": [
+          "console.log()",
+          "print()",
+          "log()",
+          "echo()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator compares value and type strictly?",
+        "options": [
+          "==",
+          "=",
+          "===",
+          "!=="
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which global function converts string to number?",
+        "options": [
+          "Number()",
+          "parse()",
+          "toNumber()",
+          "int()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax defines an arrow function?",
+        "options": [
+          "function() => {}",
+          "() => {}",
+          "=> function {}",
+          "func => {}"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword declares a block-scoped constant?",
+        "options": [
+          "var",
+          "let",
+          "const",
+          "static"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which method logs to the console?",
+        "options": [
+          "console.log()",
+          "print()",
+          "log()",
+          "echo()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator compares value and type strictly?",
+        "options": [
+          "==",
+          "=",
+          "===",
+          "!=="
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which global function converts string to number?",
+        "options": [
+          "Number()",
+          "parse()",
+          "toNumber()",
+          "int()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax defines an arrow function?",
+        "options": [
+          "function() => {}",
+          "() => {}",
+          "=> function {}",
+          "func => {}"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword declares a block-scoped constant?",
+        "options": [
+          "var",
+          "let",
+          "const",
+          "static"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which method logs to the console?",
+        "options": [
+          "console.log()",
+          "print()",
+          "log()",
+          "echo()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator compares value and type strictly?",
+        "options": [
+          "==",
+          "=",
+          "===",
+          "!=="
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which global function converts string to number?",
+        "options": [
+          "Number()",
+          "parse()",
+          "toNumber()",
+          "int()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax defines an arrow function?",
+        "options": [
+          "function() => {}",
+          "() => {}",
+          "=> function {}",
+          "func => {}"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword declares a block-scoped constant?",
+        "options": [
+          "var",
+          "let",
+          "const",
+          "static"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which method logs to the console?",
+        "options": [
+          "console.log()",
+          "print()",
+          "log()",
+          "echo()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator compares value and type strictly?",
+        "options": [
+          "==",
+          "=",
+          "===",
+          "!=="
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which global function converts string to number?",
+        "options": [
+          "Number()",
+          "parse()",
+          "toNumber()",
+          "int()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax defines an arrow function?",
+        "options": [
+          "function() => {}",
+          "() => {}",
+          "=> function {}",
+          "func => {}"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword declares a block-scoped constant?",
+        "options": [
+          "var",
+          "let",
+          "const",
+          "static"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which method logs to the console?",
+        "options": [
+          "console.log()",
+          "print()",
+          "log()",
+          "echo()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator compares value and type strictly?",
+        "options": [
+          "==",
+          "=",
+          "===",
+          "!=="
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which global function converts string to number?",
+        "options": [
+          "Number()",
+          "parse()",
+          "toNumber()",
+          "int()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax defines an arrow function?",
+        "options": [
+          "function() => {}",
+          "() => {}",
+          "=> function {}",
+          "func => {}"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword declares a block-scoped constant?",
+        "options": [
+          "var",
+          "let",
+          "const",
+          "static"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which method logs to the console?",
+        "options": [
+          "console.log()",
+          "print()",
+          "log()",
+          "echo()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator compares value and type strictly?",
+        "options": [
+          "==",
+          "=",
+          "===",
+          "!=="
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which global function converts string to number?",
+        "options": [
+          "Number()",
+          "parse()",
+          "toNumber()",
+          "int()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax defines an arrow function?",
+        "options": [
+          "function() => {}",
+          "() => {}",
+          "=> function {}",
+          "func => {}"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword declares a block-scoped constant?",
+        "options": [
+          "var",
+          "let",
+          "const",
+          "static"
+        ],
+        "answerIndex": 2
+      }
+    ],
+    "intermediate": [
+      {
+        "question": "Which Promise method runs when all promises resolve?",
+        "options": [
+          "Promise.any",
+          "Promise.race",
+          "Promise.all",
+          "Promise.allSettled"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which array method creates a new array with results of calling a function?",
+        "options": [
+          "forEach",
+          "map",
+          "filter",
+          "reduce"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword creates a promise-based async function?",
+        "options": [
+          "async",
+          "await",
+          "promise",
+          "defer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator accesses object properties safely (optional chaining)?",
+        "options": [
+          "?.",
+          "!!",
+          "?.?",
+          "?.[]"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method converts JSON string to object?",
+        "options": [
+          "JSON.parse",
+          "JSON.stringify",
+          "parseJSON",
+          "toObject"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which Promise method runs when all promises resolve?",
+        "options": [
+          "Promise.any",
+          "Promise.race",
+          "Promise.all",
+          "Promise.allSettled"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which array method creates a new array with results of calling a function?",
+        "options": [
+          "forEach",
+          "map",
+          "filter",
+          "reduce"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword creates a promise-based async function?",
+        "options": [
+          "async",
+          "await",
+          "promise",
+          "defer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator accesses object properties safely (optional chaining)?",
+        "options": [
+          "?.",
+          "!!",
+          "?.?",
+          "?.[]"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method converts JSON string to object?",
+        "options": [
+          "JSON.parse",
+          "JSON.stringify",
+          "parseJSON",
+          "toObject"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which Promise method runs when all promises resolve?",
+        "options": [
+          "Promise.any",
+          "Promise.race",
+          "Promise.all",
+          "Promise.allSettled"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which array method creates a new array with results of calling a function?",
+        "options": [
+          "forEach",
+          "map",
+          "filter",
+          "reduce"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword creates a promise-based async function?",
+        "options": [
+          "async",
+          "await",
+          "promise",
+          "defer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator accesses object properties safely (optional chaining)?",
+        "options": [
+          "?.",
+          "!!",
+          "?.?",
+          "?.[]"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method converts JSON string to object?",
+        "options": [
+          "JSON.parse",
+          "JSON.stringify",
+          "parseJSON",
+          "toObject"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which Promise method runs when all promises resolve?",
+        "options": [
+          "Promise.any",
+          "Promise.race",
+          "Promise.all",
+          "Promise.allSettled"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which array method creates a new array with results of calling a function?",
+        "options": [
+          "forEach",
+          "map",
+          "filter",
+          "reduce"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword creates a promise-based async function?",
+        "options": [
+          "async",
+          "await",
+          "promise",
+          "defer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator accesses object properties safely (optional chaining)?",
+        "options": [
+          "?.",
+          "!!",
+          "?.?",
+          "?.[]"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method converts JSON string to object?",
+        "options": [
+          "JSON.parse",
+          "JSON.stringify",
+          "parseJSON",
+          "toObject"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which Promise method runs when all promises resolve?",
+        "options": [
+          "Promise.any",
+          "Promise.race",
+          "Promise.all",
+          "Promise.allSettled"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which array method creates a new array with results of calling a function?",
+        "options": [
+          "forEach",
+          "map",
+          "filter",
+          "reduce"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword creates a promise-based async function?",
+        "options": [
+          "async",
+          "await",
+          "promise",
+          "defer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator accesses object properties safely (optional chaining)?",
+        "options": [
+          "?.",
+          "!!",
+          "?.?",
+          "?.[]"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method converts JSON string to object?",
+        "options": [
+          "JSON.parse",
+          "JSON.stringify",
+          "parseJSON",
+          "toObject"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which Promise method runs when all promises resolve?",
+        "options": [
+          "Promise.any",
+          "Promise.race",
+          "Promise.all",
+          "Promise.allSettled"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which array method creates a new array with results of calling a function?",
+        "options": [
+          "forEach",
+          "map",
+          "filter",
+          "reduce"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword creates a promise-based async function?",
+        "options": [
+          "async",
+          "await",
+          "promise",
+          "defer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator accesses object properties safely (optional chaining)?",
+        "options": [
+          "?.",
+          "!!",
+          "?.?",
+          "?.[]"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method converts JSON string to object?",
+        "options": [
+          "JSON.parse",
+          "JSON.stringify",
+          "parseJSON",
+          "toObject"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which Promise method runs when all promises resolve?",
+        "options": [
+          "Promise.any",
+          "Promise.race",
+          "Promise.all",
+          "Promise.allSettled"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which array method creates a new array with results of calling a function?",
+        "options": [
+          "forEach",
+          "map",
+          "filter",
+          "reduce"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword creates a promise-based async function?",
+        "options": [
+          "async",
+          "await",
+          "promise",
+          "defer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator accesses object properties safely (optional chaining)?",
+        "options": [
+          "?.",
+          "!!",
+          "?.?",
+          "?.[]"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method converts JSON string to object?",
+        "options": [
+          "JSON.parse",
+          "JSON.stringify",
+          "parseJSON",
+          "toObject"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which Promise method runs when all promises resolve?",
+        "options": [
+          "Promise.any",
+          "Promise.race",
+          "Promise.all",
+          "Promise.allSettled"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which array method creates a new array with results of calling a function?",
+        "options": [
+          "forEach",
+          "map",
+          "filter",
+          "reduce"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword creates a promise-based async function?",
+        "options": [
+          "async",
+          "await",
+          "promise",
+          "defer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator accesses object properties safely (optional chaining)?",
+        "options": [
+          "?.",
+          "!!",
+          "?.?",
+          "?.[]"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method converts JSON string to object?",
+        "options": [
+          "JSON.parse",
+          "JSON.stringify",
+          "parseJSON",
+          "toObject"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which Promise method runs when all promises resolve?",
+        "options": [
+          "Promise.any",
+          "Promise.race",
+          "Promise.all",
+          "Promise.allSettled"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which array method creates a new array with results of calling a function?",
+        "options": [
+          "forEach",
+          "map",
+          "filter",
+          "reduce"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword creates a promise-based async function?",
+        "options": [
+          "async",
+          "await",
+          "promise",
+          "defer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator accesses object properties safely (optional chaining)?",
+        "options": [
+          "?.",
+          "!!",
+          "?.?",
+          "?.[]"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method converts JSON string to object?",
+        "options": [
+          "JSON.parse",
+          "JSON.stringify",
+          "parseJSON",
+          "toObject"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which Promise method runs when all promises resolve?",
+        "options": [
+          "Promise.any",
+          "Promise.race",
+          "Promise.all",
+          "Promise.allSettled"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which array method creates a new array with results of calling a function?",
+        "options": [
+          "forEach",
+          "map",
+          "filter",
+          "reduce"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which keyword creates a promise-based async function?",
+        "options": [
+          "async",
+          "await",
+          "promise",
+          "defer"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which operator accesses object properties safely (optional chaining)?",
+        "options": [
+          "?.",
+          "!!",
+          "?.?",
+          "?.[]"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method converts JSON string to object?",
+        "options": [
+          "JSON.parse",
+          "JSON.stringify",
+          "parseJSON",
+          "toObject"
+        ],
+        "answerIndex": 0
+      }
+    ],
+    "advanced": [
+      {
+        "question": "Which concept describes non-blocking asynchronous code?",
+        "options": [
+          "synchronous",
+          "concurrency",
+          "event loop",
+          "blocking"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which API is used for fetching resources over network?",
+        "options": [
+          "XMLHttpRequest",
+          "fetch()",
+          "axios",
+          "net()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator spreads array elements into arguments?",
+        "options": [
+          "...",
+          "spread()",
+          "expand()",
+          "++"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax declares a generator function?",
+        "options": [
+          "function*",
+          "generator function",
+          "gen function",
+          "function!"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method returns a new function with bound this value?",
+        "options": [
+          "bind()",
+          "call()",
+          "apply()",
+          "attach()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which concept describes non-blocking asynchronous code?",
+        "options": [
+          "synchronous",
+          "concurrency",
+          "event loop",
+          "blocking"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which API is used for fetching resources over network?",
+        "options": [
+          "XMLHttpRequest",
+          "fetch()",
+          "axios",
+          "net()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator spreads array elements into arguments?",
+        "options": [
+          "...",
+          "spread()",
+          "expand()",
+          "++"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax declares a generator function?",
+        "options": [
+          "function*",
+          "generator function",
+          "gen function",
+          "function!"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method returns a new function with bound this value?",
+        "options": [
+          "bind()",
+          "call()",
+          "apply()",
+          "attach()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which concept describes non-blocking asynchronous code?",
+        "options": [
+          "synchronous",
+          "concurrency",
+          "event loop",
+          "blocking"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which API is used for fetching resources over network?",
+        "options": [
+          "XMLHttpRequest",
+          "fetch()",
+          "axios",
+          "net()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator spreads array elements into arguments?",
+        "options": [
+          "...",
+          "spread()",
+          "expand()",
+          "++"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax declares a generator function?",
+        "options": [
+          "function*",
+          "generator function",
+          "gen function",
+          "function!"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method returns a new function with bound this value?",
+        "options": [
+          "bind()",
+          "call()",
+          "apply()",
+          "attach()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which concept describes non-blocking asynchronous code?",
+        "options": [
+          "synchronous",
+          "concurrency",
+          "event loop",
+          "blocking"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which API is used for fetching resources over network?",
+        "options": [
+          "XMLHttpRequest",
+          "fetch()",
+          "axios",
+          "net()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator spreads array elements into arguments?",
+        "options": [
+          "...",
+          "spread()",
+          "expand()",
+          "++"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax declares a generator function?",
+        "options": [
+          "function*",
+          "generator function",
+          "gen function",
+          "function!"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method returns a new function with bound this value?",
+        "options": [
+          "bind()",
+          "call()",
+          "apply()",
+          "attach()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which concept describes non-blocking asynchronous code?",
+        "options": [
+          "synchronous",
+          "concurrency",
+          "event loop",
+          "blocking"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which API is used for fetching resources over network?",
+        "options": [
+          "XMLHttpRequest",
+          "fetch()",
+          "axios",
+          "net()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator spreads array elements into arguments?",
+        "options": [
+          "...",
+          "spread()",
+          "expand()",
+          "++"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax declares a generator function?",
+        "options": [
+          "function*",
+          "generator function",
+          "gen function",
+          "function!"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method returns a new function with bound this value?",
+        "options": [
+          "bind()",
+          "call()",
+          "apply()",
+          "attach()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which concept describes non-blocking asynchronous code?",
+        "options": [
+          "synchronous",
+          "concurrency",
+          "event loop",
+          "blocking"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which API is used for fetching resources over network?",
+        "options": [
+          "XMLHttpRequest",
+          "fetch()",
+          "axios",
+          "net()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator spreads array elements into arguments?",
+        "options": [
+          "...",
+          "spread()",
+          "expand()",
+          "++"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax declares a generator function?",
+        "options": [
+          "function*",
+          "generator function",
+          "gen function",
+          "function!"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method returns a new function with bound this value?",
+        "options": [
+          "bind()",
+          "call()",
+          "apply()",
+          "attach()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which concept describes non-blocking asynchronous code?",
+        "options": [
+          "synchronous",
+          "concurrency",
+          "event loop",
+          "blocking"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which API is used for fetching resources over network?",
+        "options": [
+          "XMLHttpRequest",
+          "fetch()",
+          "axios",
+          "net()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator spreads array elements into arguments?",
+        "options": [
+          "...",
+          "spread()",
+          "expand()",
+          "++"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax declares a generator function?",
+        "options": [
+          "function*",
+          "generator function",
+          "gen function",
+          "function!"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method returns a new function with bound this value?",
+        "options": [
+          "bind()",
+          "call()",
+          "apply()",
+          "attach()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which concept describes non-blocking asynchronous code?",
+        "options": [
+          "synchronous",
+          "concurrency",
+          "event loop",
+          "blocking"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which API is used for fetching resources over network?",
+        "options": [
+          "XMLHttpRequest",
+          "fetch()",
+          "axios",
+          "net()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator spreads array elements into arguments?",
+        "options": [
+          "...",
+          "spread()",
+          "expand()",
+          "++"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax declares a generator function?",
+        "options": [
+          "function*",
+          "generator function",
+          "gen function",
+          "function!"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method returns a new function with bound this value?",
+        "options": [
+          "bind()",
+          "call()",
+          "apply()",
+          "attach()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which concept describes non-blocking asynchronous code?",
+        "options": [
+          "synchronous",
+          "concurrency",
+          "event loop",
+          "blocking"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which API is used for fetching resources over network?",
+        "options": [
+          "XMLHttpRequest",
+          "fetch()",
+          "axios",
+          "net()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator spreads array elements into arguments?",
+        "options": [
+          "...",
+          "spread()",
+          "expand()",
+          "++"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax declares a generator function?",
+        "options": [
+          "function*",
+          "generator function",
+          "gen function",
+          "function!"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method returns a new function with bound this value?",
+        "options": [
+          "bind()",
+          "call()",
+          "apply()",
+          "attach()"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which concept describes non-blocking asynchronous code?",
+        "options": [
+          "synchronous",
+          "concurrency",
+          "event loop",
+          "blocking"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which API is used for fetching resources over network?",
+        "options": [
+          "XMLHttpRequest",
+          "fetch()",
+          "axios",
+          "net()"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which operator spreads array elements into arguments?",
+        "options": [
+          "...",
+          "spread()",
+          "expand()",
+          "++"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which syntax declares a generator function?",
+        "options": [
+          "function*",
+          "generator function",
+          "gen function",
+          "function!"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which method returns a new function with bound this value?",
+        "options": [
+          "bind()",
+          "call()",
+          "apply()",
+          "attach()"
+        ],
+        "answerIndex": 0
+      }
+    ]
+  }
+}

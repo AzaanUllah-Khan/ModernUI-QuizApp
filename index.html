@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Python MCQ Quiz — 100 Questions</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container" role="application" aria-labelledby="quizTitle">
+    <header>
+      <div class="title">
+        <div class="logo">Py</div>
+        <div>
+          <h1 id="quizTitle">Python MCQ Quiz</h1>
+        </div>
+      </div>
+    </header>
+
+    <div class="progress-wrap">
+      <div class="progress" aria-hidden="true"><i style="width:0%"></i></div>
+    </div>
+
+    <main>
+      <section class="card" id="quizCard" aria-live="polite">
+        <div class="question-top">
+          <div class="q-number" id="qNumber">Question 1 of 100</div>
+          <div class="meta" id="qProgressLabel">Progress: 0%</div>
+        </div>
+
+        <div class="q-text" id="qText">Loading...</div>
+
+        <div class="options" id="optionsList" role="listbox" aria-label="Options">
+          <!-- options injected here -->
+        </div>
+
+        <div class="controls">
+          <div class="meta" id="feedback" aria-atomic="true"></div>
+          <div style="display:flex;gap:10px">
+            <button class="btn ghost" id="prevBtn" title="Previous (not saved)">Previous</button>
+            <button class="btn primary" id="nextBtn" disabled>Next</button>
+          </div>
+        </div>
+
+        <div style="margin-top:14px; color:var(--muted); font-size:13px">
+          Tip: Press keys <strong>1</strong> to <strong>4</strong> to choose an option, then <strong>Enter</strong> to
+          proceed.
+        </div>
+
+        <!-- Final result view -->
+        <div class="final-screen" id="finalScreen" aria-hidden="true">
+          <h2 id="finalTitle">Your Results</h2>
+          <p id="finalSummary" class="sub" style="margin-top:6px">Well done — here's your score</p>
+          <div style="display:flex;gap:12px;justify-content:center;margin-top:18px;flex-wrap:wrap">
+            <div class="summary" style="min-width:120px">
+              <div class="stat-row">
+                <div class="meta">Score</div>
+                <div class="stat-big" id="finalScore">0%</div>
+              </div>
+            </div>
+            <div class="summary" style="min-width:120px">
+              <div class="stat-row">
+                <div class="meta">Correct</div>
+                <div class="stat-big" id="finalCorrect">0</div>
+              </div>
+            </div>
+            <div class="summary" style="min-width:120px">
+              <div class="stat-row">
+                <div class="meta">Wrong</div>
+                <div class="stat-big" id="finalWrong">0</div>
+              </div>
+            </div>
+          </div>
+
+          <div style="margin-top:18px; display:flex;gap:12px;justify-content:center">
+            <button class="btn" id="restartBtn">Restart Quiz</button>
+            <button class="btn primary" id="reviewBtn">Review Answers</button>
+          </div>
+        </div>
+      </section>
+
+      <aside class="side">
+        <div class="card summary" aria-hidden="false">
+          <div style="display:flex;justify-content:space-between;align-items:center">
+            <div>
+              <div class="meta">Question</div>
+              <div class="stat-big" id="sideQnum">1 / 100</div>
+            </div>
+            <div>
+              <div class="meta">Answered</div>
+              <div class="stat-big" id="sideAnswered">0</div>
+            </div>
+          </div>
+          <hr style="border:none; height:1px; background:rgba(255,255,255,0.02); margin:12px 0">
+          <div class="meta" style="margin-bottom:6px">Session stats</div>
+          <div class="stat-row">
+            <div class="meta">Correct</div>
+            <div id="sideCorrect" class="meta">0</div>
+          </div>
+          <div class="stat-row">
+            <div class="meta">Wrong</div>
+            <div id="sideWrong" class="meta">0</div>
+          </div>
+          <div style="margin-top:12px">
+            <button class="btn primary" id="finishBtn">Finish Now</button>
+          </div>
+        </div>
+
+        <div class="card" style="padding:14px">
+          <div style="display:flex;flex-direction:column;gap:10px;align-items:flex-start">
+            <div>
+              <div class="meta">Time</div>
+              <div class="stat-big" id="timer">00:00</div>
+            </div>
+            <div>
+              <div class="meta">Difficulty</div>
+              <div class="stat-big">Beginner → Intermediate</div>
+            </div>
+          </div>
+        </div>
+      </aside>
+    </main>
+
+    <footer>
+      <div>Built with 🤍 • AzaanUllah Khan</div>
+      <!-- <div class="meta">Keyboard: 1-4 to answer • Enter to next</div> -->
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
