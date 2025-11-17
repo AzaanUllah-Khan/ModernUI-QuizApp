@@ -294,3 +294,7 @@ footer {
 .option:focus {
     outline: 3px solid rgba(124, 58, 237, 0.12);
 }
+
+.myhidden{
+    display: none;
+}

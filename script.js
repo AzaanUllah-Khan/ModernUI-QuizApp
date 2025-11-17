@@ -133,6 +133,16 @@ const restartBtn = document.getElementById('restartBtn');
 const reviewBtn = document.getElementById('reviewBtn');
 const finishBtn = document.getElementById('finishBtn');
 
+
+const start = document.querySelector('.question-top');
+const elements = [];
+let el = start;
+while (el && !el.classList.contains('final-screen')) {
+    elements.push(el);
+    el = el.nextElementSibling;
+}
+
+
 // store per-question user answers for optional review
 const userAnswers = Array(total).fill(null);
 
@@ -143,6 +153,7 @@ function renderQuestion(i) {
     optionsList.innerHTML = '';
     selectedIndex = null;
     nextBtn.disabled = true;
+    feedback.style.display = "none"
     feedback.textContent = '';
     // create options a,b,c,d (or fewer)
     const labels = ['a', 'b', 'c', 'd'];
@@ -208,6 +219,7 @@ function handleSelect(choiceIdx) {
     answered++;
     if (chosenLabel === item.answer) {
         correctCount++;
+        feedback.style.display = "block"
         feedback.innerHTML = `<span style="color:var(--success); font-weight:700">Correct</span>`;
     } else {
         wrongCount++;
@@ -231,6 +243,7 @@ nextBtn.addEventListener('click', () => {
         return;
     }
     if (idx < total - 1) {
+        // feedback.style.display = "none"
         idx++;
         renderQuestion(idx);
         // auto-scroll to top of question for small screens
@@ -320,6 +333,7 @@ function showResults() {
     qProgressLabel.textContent = `Progress: 100%`;
     // hide quiz area and show final screen
     document.getElementById('quizCard').setAttribute('aria-hidden', 'true');
+    elements.forEach(e => e.classList.add('myhidden'));
     finalScreen.classList.add('show');
     document.getElementById('qText').textContent = '';
     document.getElementById('optionsList').innerHTML = '';
@@ -342,6 +356,7 @@ restartBtn.addEventListener('click', () => {
     answered = 0;
     selectedIndex = null;
     startTime = Date.now();
+    elements.forEach(e => e.classList.remove("myhidden"));
     for (let i = 0; i < userAnswers.length; i++) userAnswers[i] = null;
     timerEl.textContent = '00:00';
     timerInterval = setInterval(() => {
@@ -358,6 +373,7 @@ reviewBtn.addEventListener('click', () => {
     // Allow review: step through questions, showing chosen and correct
     idx = 0;
     renderQuestion(idx);
+    elements.forEach(e => e.classList.remove("myhidden"));
     // mark answered states from userAnswers
     if (userAnswers[idx] !== null) {
         const labels = ['a', 'b', 'c', 'd'];
