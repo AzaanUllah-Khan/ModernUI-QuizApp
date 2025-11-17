@@ -110,6 +110,8 @@ let answered = 0;
 let selectedIndex = null;
 let startTime = Date.now();
 const total = QUESTIONS.length;
+let isReviewMode = false;
+
 
 // DOM refs
 const qNumber = document.getElementById('qNumber');
@@ -178,6 +180,26 @@ function renderQuestion(i) {
         });
     });
 
+    if (isReviewMode) {
+        // Disable all interactions
+        Array.from(optionsList.children).forEach(btn => {
+            btn.classList.add('disabled');
+        });
+
+        nextBtn.disabled = false;  // allow navigation
+        prevBtn.disabled = (idx === 0);
+
+        // Reapply previous answers visually
+        const prevAns = userAnswers[idx];
+        if (prevAns !== null) {
+            const labels = ['a', 'b', 'c', 'd'];
+            const chosenIndex = labels.indexOf(prevAns);
+            handleSelectAfterRender(chosenIndex);
+        }
+
+        return; // <-- IMPORTANT: prevents normal mode setup
+    }
+
     // progress
     const pct = Math.round(((i) / total) * 100);
     progressBar.style.width = `${pct}%`;
@@ -195,6 +217,7 @@ function renderQuestion(i) {
 }
 
 function handleSelect(choiceIdx) {
+    if (isReviewMode) return;
     if (selectedIndex !== null) return; // already answered
     selectedIndex = choiceIdx;
     const item = QUESTIONS[idx];
@@ -227,6 +250,7 @@ function handleSelect(choiceIdx) {
         const correctIdx = ['a', 'b', 'c', 'd'].indexOf(item.answer);
         const correctText = item.options[correctIdx] ?? '—';
         feedback.innerHTML = `<span style="color:var(--danger); font-weight:700; margin-right: 12px">Wrong</span> Correct: <strong style="color:#e6eef8">${item.answer}. ${correctText}</strong>`;
+        feedback.style.display = "block"
     }
 
     sideAnswered.textContent = answered;
@@ -238,19 +262,26 @@ function handleSelect(choiceIdx) {
 }
 
 nextBtn.addEventListener('click', () => {
-    if (selectedIndex === null) {
-        // nothing selected — safeguard (should be disabled)
+
+    if (!isReviewMode) {
+        // Normal mode
+        if (selectedIndex === null) return;
+
+        if (idx < total - 1) {
+            idx++;
+            renderQuestion(idx);
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        } else {
+            showResults();
+        }
         return;
     }
+
+    // REVIEW MODE
     if (idx < total - 1) {
-        // feedback.style.display = "none"
         idx++;
         renderQuestion(idx);
-        // auto-scroll to top of question for small screens
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-    } else {
-        // finish
-        showResults();
+        handleSelectAfterRender(['a', 'b', 'c', 'd'].indexOf(userAnswers[idx]));
     }
 });
 
@@ -349,6 +380,8 @@ function showResults() {
 }
 
 restartBtn.addEventListener('click', () => {
+    clearInterval(timerInterval);
+
     // reset state
     idx = 0;
     correctCount = 0;
@@ -356,9 +389,24 @@ restartBtn.addEventListener('click', () => {
     answered = 0;
     selectedIndex = null;
     startTime = Date.now();
+    isReviewMode = false
+
+    finalScreen.classList.remove('show');
+
+    progressBar.style.width = `0`;
+
+    Array.from(optionsList.children).forEach((el) => {
+        el.classList.remove('disabled');
+    })
+
     elements.forEach(e => e.classList.remove("myhidden"));
-    for (let i = 0; i < userAnswers.length; i++) userAnswers[i] = null;
+
+    for (let i = 0; i < userAnswers.length; i++) {
+        userAnswers[i] = null;
+    }
+
     timerEl.textContent = '00:00';
+
     timerInterval = setInterval(() => {
         const diff = Date.now() - startTime;
         const s = Math.floor(diff / 1000);
@@ -366,11 +414,15 @@ restartBtn.addEventListener('click', () => {
         const ss = String(s % 60).padStart(2, '0');
         timerEl.textContent = `${mm}:${ss}`;
     }, 1000);
+
     renderQuestion(idx);
 });
 
+
+
 reviewBtn.addEventListener('click', () => {
     // Allow review: step through questions, showing chosen and correct
+    isReviewMode = true
     idx = 0;
     renderQuestion(idx);
     elements.forEach(e => e.classList.remove("myhidden"));
