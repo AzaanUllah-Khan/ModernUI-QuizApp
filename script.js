@@ -208,13 +208,13 @@ function handleSelect(choiceIdx) {
     answered++;
     if (chosenLabel === item.answer) {
         correctCount++;
-        feedback.innerHTML = `<span style="color:var(--success); font-weight:700">Correct ✓</span>`;
+        feedback.innerHTML = `<span style="color:var(--success); font-weight:700">Correct</span>`;
     } else {
         wrongCount++;
         // show the correct option text
         const correctIdx = ['a', 'b', 'c', 'd'].indexOf(item.answer);
         const correctText = item.options[correctIdx] ?? '—';
-        feedback.innerHTML = `<span style="color:var(--danger); font-weight:700">Wrong ✕</span> — Correct: <strong style="color:#e6eef8">${item.answer}. ${correctText}</strong>`;
+        feedback.innerHTML = `<span style="color:var(--danger); font-weight:700; margin-right: 12px">Wrong</span> Correct: <strong style="color:#e6eef8">${item.answer}. ${correctText}</strong>`;
     }
 
     sideAnswered.textContent = answered;
